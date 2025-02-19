@@ -12,6 +12,49 @@ Personal Website: [mkdir.dev](https://mkdir.dev) or [SerdarDemirbas.com](https:/
 
 ## 💻 Tech Stack:
 
+<table>
+  <tr>
+    <td valign="middle">
+      <span>Languages:</span>
+    </td>
+    <td valign="middle">
+      <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"></a>
+      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"></a>
+      <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <span>Frameworks:</span>
+    </td>
+    <td valign="middle">
+      <a href="#"><img alt="ASP.NET MVC" src="https://img.shields.io/badge/ASP.NET%20MVC-%230078D7.svg?style=flat-square&logo=dotnet&logoColor=white"></a>
+      <a href="#"><img alt="ASP.NET Core MVC" src="https://img.shields.io/badge/ASP.NET%20Core-%230078D7.svg?style=flat-square&logo=dotnet&logoColor=white"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <span>Backend:</span>
+    </td>
+    <td valign="middle">
+      <a href="#"><img alt="Web API" src="https://img.shields.io/badge/Web%20API-%230078D7.svg?style=flat-square&logo=dotnet&logoColor=white"></a>
+      <a href="#"><img alt="Entity Framework" src="https://img.shields.io/badge/Entity%20Framework-%230078D7.svg?style=flat-square&logo=dotnet&logoColor=white"></a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle">
+      <span>Databases:</span>
+    </td>
+    <td valign="middle">
+      <a href="#"><img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-%23CC2927.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white"></a>
+      <a href="#"><img alt="Couchbase" src="https://img.shields.io/badge/Couchbase-%23ED2226.svg?style=flat-square&logo=couchbase&logoColor=white"></a>
+    </td>
+  </tr>
+</table>
+
+
+
 
 <table>
   <tr>
