@@ -1,7 +1,7 @@
-### Hi there, I'm Serdar Demirbas 👋
+### Hi, I'm Serdar Demirbas 👋
 
 <img src="https://komarev.com/ghpvc/?username=SerdarDemirbas&label=Profile%20views&color=0e75b6&style=flat" alt="SerdarDemirbas" />
-Software developer with 4+ years of experience who has worked on the back-end and front-end of various websites, from successful startups to e-commerce, messaging, and news services. Proven skills in problem-solving, analytical thinking, and creativity across diverse projects. Experienced in JavaScript technologies such as Node.js (Express), Vue, and React. Also has a good knowledge of MongoDB, Docker, and DevOps.
+Sr. Full Stack Developer with 15+ years of experience who has worked on the back-end and front-end of various websites, from successful e-commerce, ERP, HR, CRM, CMS and similar projects. Proven skills in problem-solving, analytical thinking, and creativity across diverse projects. .
 
 
 
