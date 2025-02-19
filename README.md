@@ -1,14 +1,17 @@
 ### Hi, I'm Serdar Demirbas 👋
 
 <img src="https://komarev.com/ghpvc/?username=SerdarDemirbas&label=Profile%20views&color=0e75b6&style=flat" alt="SerdarDemirbas" />
-Sr. Full Stack Developer with 15+ years of experience who has worked on the back-end and front-end of various websites, from successful e-commerce, ERP, HR, CRM, CMS and similar projects. Proven skills in problem-solving, analytical thinking, and creativity across diverse projects. .
+Sr. Full Stack Developer with 15+ years of experience who has worked on the back-end and front-end of various websites, from successful e-commerce, ERP, HR, CRM, CMS and similar projects. Proven skills in problem-solving, analytical thinking, and creativity across diverse projects. 
 
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serdar-demirbas) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1425766/splat1985) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SerdarDemirbas) 
 
-Personal Website: [mkdir.dev](https://mkdir.dev) or [SerdarDemirbas.com](https://www.SerdarDemirbas.com.tr/)
+<!--
+Personal Website: [mkdir.dev](https://mkdir.dev) or [SerdarDemirbas.com.tr](https://www.SerdarDemirbas.com.tr/)
+-->
+
 
 ## 💻 Tech Stack:
 
